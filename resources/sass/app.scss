@@ -1,0 +1,28 @@
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Hind');
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+body {
+    font-family: 'Trebuchet MS',sans-serif;
+    background: #fff0ee;
+}
+html,body{
+    height: 100vh;
+}
+.logo{
+    width: 45px;
+}
+.navbar-brand .slogan {
+    position: relative;
+    bottom: 14px;
+    left: 51px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #e5554e;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background: #e5554e ;
+}
